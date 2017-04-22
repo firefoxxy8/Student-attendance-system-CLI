@@ -1,0 +1,3 @@
+ECSC400	Communication	21.777	Forest	Dr. Foster	6	4
+ECSC410	SDP 01	65.432	Breakout Room	Dr. Furious	10	8
+ECSC500	Data Modeling	24.222	Lab 2	Dr. Leon	5	4

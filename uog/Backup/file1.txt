@@ -1,0 +1,18 @@
+Unit :ECSC410
+Unit name :SDP 01
+Room :65.432
+Name :Breakout Room
+Lecturer :Dr. Furious
+Week :01
+Date :15/09/2014
+Student No.	Last Name	First Name	Present
+
+2015555		Smiggins	Calum             Y
+2015062		Gunasekara	Lakindu           Y
+2015033		Bruis		Coma              Y
+2015032		Dolero		Jason             Y
+Lecturer confirmed attendance: Yes
+Students enrolled :8
+Attendance :4
+Room capacity :10
+Percentage occupancy :50.0 %
